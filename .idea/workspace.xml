@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8275fdce-ebc6-4efd-a177-076f1c621de9" name="Changes" comment="just hello" />
+    <list default="true" id="8275fdce-ebc6-4efd-a177-076f1c621de9" name="Changes" comment="second hello" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653455782834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second hello">
+      <created>1653455912400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653455912400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -49,7 +62,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
         <entry key="c73b9645-dc8d-4f7b-bd3e-19171762e045">
@@ -87,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="just hello" />
+    <MESSAGE value="second hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="second hello" />
   </component>
 </project>
